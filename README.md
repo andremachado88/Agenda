@@ -1,7 +1,7 @@
 # Agenda
 Agenda usando estrutura de arvore, com múltiplos nós
 
-Para a execução deverá criar um arquivo na unidadde "C:" com o nome "entrada.txt", no arquivo deverá conter pelo menos 2 linhas, a primeira linha indicando a quantidade de telefones que serão adicionados, vejo no exemplo abaixo, a primeira linha é o numero 5, indicando que abaixo dela contem 5 linhas com numeros de telefones :
+Para a execução deverá criar um arquivo na unidadde "C:" com o nome "entrada.txt", no arquivo deverá conter pelo menos 2 linhas, a primeira linha indicando a quantidade de telefones que serão adicionados, vejo no exemplo, a primeira linha é o numero 5, indicando que abaixo dela contem 5 linhas com numeros de telefones :
 
 entrada.txt
 5
